@@ -5,8 +5,6 @@
 
 <div align="center"> <img src="https://metrics.lecoq.io/Lin912?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lin912&layout=compact&theme=tokyonight)
-
 
 
 
