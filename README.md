@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 <!--
 **Lin912/Lin912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
